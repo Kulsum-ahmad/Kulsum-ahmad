@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kulsum-ahmad
 - - 👀 I’m interested in python and java programming.
-- 🌱 I’m currently learning python in machine learning.
+- 🌱 I’m currently learning machine learning with python. 
 
         -Real-estate-Project:
             1. This project helps the user to get the predicted price of the desired house/flat/land so that the user can get an overall glance of the budget to purchase it.
