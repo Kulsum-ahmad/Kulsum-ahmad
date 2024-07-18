@@ -10,6 +10,7 @@
           #File it contains:
             a. realestate.py code.
             b. dataset.csv
+            c. image.png
         
           #Dataset details:
             a. Kaggle datasets download -dshree1992/housedata
