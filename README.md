@@ -1,7 +1,3 @@
-- 👋 Hi, I’m @Kulsum-ahmad
-- - 👀 I’m interested in python and java programming.
-- 🌱 I’m currently learning machine learning with python. 
-
 Group Members Name(BTech CSE):-
 1. Kulsum Ahmad
 2. Lavanya
