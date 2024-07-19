@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning machine learning with python. 
 
 Group Members Name(BTech CSE):-
-1.Kulsum Ahmad
+1. Kulsum Ahmad
 2. Lavanya
 3. Divyanshu Ranjan
 4. Aditya Ranjan
