@@ -1,9 +1,3 @@
-Group Members Name(BTech CSE):-
-1. Kulsum Ahmad
-2. Lavanya
-3. Divyanshu Ranjan
-4. Aditya Ranjan
-
 -Real-estate-Project:
 1. This project helps the user to get the predicted price of the desired house/flat/land so that the user can get an overall glance of the budget to purchase it.
 2. A real estate price prediction application provides significant value across the entire real estate ecosystem, benefitting buyers, sellers, agents, investors and other stakeholders through
