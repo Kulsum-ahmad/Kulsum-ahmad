@@ -24,4 +24,4 @@ Explore more projects on my GitHub profile (github.com/Kulsum-ahmad)
 🤝 Let's Connect
 Email: kulsumahmad0703@gmail.com
 
-LinkedIn: https://www.linkedin.com/in/kulsumahmad-a00560324
+LinkedIn: https://www.linkedin.com/in/kulsum-ahmad-a00560324
