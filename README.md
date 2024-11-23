@@ -16,8 +16,8 @@ I’m a BTech student specializing in Computer Science. I have a passion for cod
 
   Language Proficiency:
   
-    English: Proficient,
-    Spanish: A1 Level
+   English: Proficient,
+   Spanish: A1 Level
 
 🌱 Currently Learning:-
 
