@@ -8,20 +8,22 @@ I’m a BTech student specializing in Computer Science. I have a passion for cod
 
 💞️ I’m looking to collaborate on projects, ideas or just a techie conversation
 
-🛠 Skills 
+🛠 Skills:-  
 
-Languages: C, C++, Python, HTML, CSS
+  Languages: C, C++, Python, HTML, CSS
 
-Tools & Technologies: Git, VS Code, etc.
+  Tools & Technologies: Git, VS Code, etc.
 
-Language Proficiency:
-  English: Proficient
-  Spanish: A1 Level
+  Language Proficiency:
+    English: Proficient
+    Spanish: A1 Level
 
-🌱 Currently Learning
+🌱 Currently Learning:-
+
 JavaScript, React, advanced concepts in AI/ML and building end-to-end solutuions, etc.
 
-📚 Projects
+📚 Projects:-
+
 Here are some of my projects:-
 
 Real Estate Price Prediction: Predicts price based on area, bedrooms, bathrooms and location in India.
