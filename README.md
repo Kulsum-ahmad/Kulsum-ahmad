@@ -4,10 +4,14 @@ I’m a BTech student specializing in Computer Science. I have a passion for cod
 😄 Pronouns: She/Her
 💞️ I’m looking to collaborate on projects, ideas or just a techie conversation
 
-🛠 Skills
+🛠 Skills 
 Languages: C, C++, Python, HTML, CSS
 
 Tools & Technologies: Git, VS Code, etc.
+
+Language Proficiency:
+  English: Proficient
+  Spanish: A1 Level
 
 🌱 Currently Learning
 JavaScript, React, advanced concepts in AI/ML and building end-to-end solutuions, etc.
