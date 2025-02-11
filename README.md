@@ -10,18 +10,19 @@ I’m a BTech student specializing in Computer Science. I have a passion for cod
 
 🛠 Skills:-  
 
-  Languages: C, C++, Python, HTML, CSS
+  Languages: C, C++, Python, HTML, CSS, JavaScript
 
-  Tools & Technologies: Git, VS Code, etc.
+  Tools & Technologies: Git, VS Code, GitHub, etc.
 
   Language Proficiency:
   
    English: Proficient,
+   Hindi: Proficient,
    Spanish: A1 Level
 
 🌱 Currently Learning:-
 
-JavaScript, React, advanced concepts in AI/ML and building end-to-end solutuions, etc.
+Java, React.JS, advanced concepts in AI/ML and building end-to-end solutuions, etc.
 
 📚 Projects:-
 
