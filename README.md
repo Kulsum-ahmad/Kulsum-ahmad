@@ -1,41 +1,41 @@
-👋 Hi there! I'm @Kulsum-ahmad
+👋 Hi, I’m Kulsum Ahmad (Pronouns: She/Her)
 
-I’m a BTech student specializing in Computer Science. I have a passion for coding and web development, with experience in a variety of programming languages and technologies.
+I’m a BTech Computer Science student with a strong interest in frontend development, UI design, and open-source contributions, and growing experience in AI/ML projects.
 
-👀 I’m interested in AI and ML, Responsive and Interactive web development
+👀 Interests:
+- Responsive & interactive web development
+- Frontend engineering & UI design
+- Exploring AI/ML applications
+- Open-source collaboration
 
-😄 Pronouns: She/Her
+🛠 Skills:
+Languages: C, C++, Python, HTML, CSS, JavaScript
 
-💞️ I’m looking to collaborate on projects, ideas or just a techie conversation
+Frontend & Tools: Git, GitHub, VS Code, DOM manipulation, basic API integration, Streamlit
 
-🛠 Skills:-  
+Currently Learning: React.js, Java, advanced AI/ML concepts, end-to-end project building
 
-  Languages: C, C++, Python, HTML, CSS, JavaScript
+📚 Projects:
+- Rock–Paper–Scissors Game
+A browser-based game built using HTML, CSS, and JavaScript, focusing on DOM manipulation and interactive UI.
 
-  Tools & Technologies: Git, VS Code, GitHub, etc.
+- Infosys Internship Project (Team of 5)
+Worked primarily on frontend development, UI design, and integration, contributing to user-facing components and frontend integration.
 
-  Language Proficiency:
-  
-   English: Proficient,
-   Hindi: Proficient,
-   Spanish: A1 Level
+- Real Estate Price Prediction
+ML project predicting property prices in India based on area, BHK, bathrooms, and location.
 
-🌱 Currently Learning:-
+- GPT-2 Text Generator
+A text generation web app built using GPT-2 and Streamlit, generating content based on user prompts.
 
-Java, React.JS, advanced concepts in AI/ML and building end-to-end solutuions, etc.
+👉 More projects on my GitHub: github.com/Kulsum-ahmad
 
-📚 Projects:-
+🌍 Open Source & Contributions:
+- Contributed to IBM repositories during Full Stack Software Development course (Coursera)
+- 6 PRs merged during Hacktoberfest
+- Hacktoberfest Super Contributor (received official T-shirt)
+- Hands-on experience with real-world repositories, code reviews, and collaborative workflows
 
-Here are some of my projects:-
-
-Real Estate Price Prediction: Predicts price based on area, bedrooms, bathrooms and location in India.
-
-GPT-2 Text Generator: A text generation app using GPT-2 and Streamlit. This app generates text content based on user prompts.
-
-Explore more projects on my GitHub profile (github.com/Kulsum-ahmad)
-
-🤝 Let's Connect:-
-
-Email: kulsumahmad0703@gmail.com
-
-LinkedIn: https://www.linkedin.com/in/kulsum-ahmad-a00560324
+🤝 Let’s Connect
+📧 Email: kulsumahmad0703@gmail.com
+🔗 LinkedIn: https://www.linkedin.com/in/kulsum-ahmad-a00560324
