@@ -9,6 +9,7 @@ I’m a BTech Computer Science student with a strong interest in frontend develo
 - Open-source collaboration
 
 🛠 Skills:
+
 Languages: C, C++, Python, HTML, CSS, JavaScript
 
 Frontend & Tools: Git, GitHub, VS Code, DOM manipulation, basic API integration, Streamlit
@@ -38,4 +39,5 @@ A text generation web app built using GPT-2 and Streamlit, generating content ba
 
 🤝 Let’s Connect
 📧 Email: kulsumahmad0703@gmail.com
+
 🔗 LinkedIn: https://www.linkedin.com/in/kulsum-ahmad-a00560324
