@@ -14,20 +14,50 @@ Languages: C, C++, Python, HTML, CSS, JavaScript
 
 Frontend & Tools: Git, GitHub, VS Code, DOM manipulation, basic API integration, Streamlit
 
-Currently Learning: React.js, Java, advanced AI/ML concepts, end-to-end project building
+Current Focus: React.js, Java, advanced AI/ML concepts, end-to-end project building
 
-📚 Projects:
-- Rock–Paper–Scissors Game
-A browser-based game built using HTML, CSS, and JavaScript, focusing on DOM manipulation and interactive UI.
+🚀 Featured Projects & Research
+🏆 Research: NGO-Volunteer Connection Platform
+Accepted for presentation at ICISTECH 2.0 Conference (2026)
 
-- Infosys Internship Project (Team of 5)
-Worked primarily on frontend development, UI design, and integration, contributing to user-facing components and frontend integration.
+Overview: Designed a web-based platform to bridge the gap between non-profits and volunteers, streamlining the recruitment process for social impact initiatives.
 
-- Real Estate Price Prediction
-ML project predicting property prices in India based on area, BHK, bathrooms, and location.
+Key Achievement: The system architecture and abstract were peer-reviewed and selected for presentation at the ICISTECH international conference.
 
-- GPT-2 Text Generator
-A text generation web app built using GPT-2 and Streamlit, generating content based on user prompts.
+Tech Stack: Web Technologies, [Insert Backend/DB if applicable]
+
+🤖 CareerFlow (AI-Powered Career Assistant)
+Status: In Active Development
+Overview: Architecting a multi-semester project designed to automate resume analysis and simulate technical interviews. The tool utilizes AI to provide actionable feedback to job seekers, aiming to democratize access to career coaching.
+Focus: Integrating LLMs for natural language processing and building a responsive, user-centric frontend.
+Tech Stack: Python, AI/ML, React
+
+🏢 Infosys Internship Project
+Role: Frontend Developer (Collaborative Team of 5)
+
+Overview: contributed to the development of a scalable enterprise web application.
+
+Key Contributions:
+
+Designed and implemented modular UI components, ensuring 100% responsiveness across devices.
+
+Managed version control and integration of frontend views with backend APIs using Git.
+
+Tech Stack: HTML5, CSS3, JavaScript, Git
+
+🏘️ Real Estate Price Predictor
+Overview: engineered a Machine Learning model to predict Indian property prices with high accuracy based on key features (Area, BHK, Location).
+
+Technical Implementation: Performed extensive data cleaning and feature engineering to optimize model performance.
+
+Tech Stack: Python, Pandas, Scikit-learn
+
+🧠 GPT-2 Text Generator
+Overview: deployed a Generative AI application capable of creating coherent text sequences from user prompts.
+
+Technical Implementation: Integrated the GPT-2 model with a Streamlit interface for real-time model inference.
+
+Tech Stack: Python, PyTorch/TensorFlow, Streamlit, Transformers
 
 👉 More projects on my GitHub: github.com/Kulsum-ahmad
 
