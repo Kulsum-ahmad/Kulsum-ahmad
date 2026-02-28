@@ -24,14 +24,6 @@ Overview: Designed a web-based platform to bridge the gap between non-profits an
 
 Key Achievement: The system architecture and abstract were peer-reviewed and selected for presentation at the ICISTECH international conference.
 
-Tech Stack: Web Technologies, [Insert Backend/DB if applicable]
-
-🤖 CareerFlow (AI-Powered Career Assistant)
-Status: In Active Development
-Overview: Architecting a multi-semester project designed to automate resume analysis and simulate technical interviews. The tool utilizes AI to provide actionable feedback to job seekers, aiming to democratize access to career coaching.
-Focus: Integrating LLMs for natural language processing and building a responsive, user-centric frontend.
-Tech Stack: Python, AI/ML, React
-
 🏢 Infosys Internship Project
 Role: Frontend Developer (Collaborative Team of 5)
 
