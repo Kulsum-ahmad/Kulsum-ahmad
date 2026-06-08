@@ -1,65 +1,94 @@
-👋 Hi, I’m Kulsum Ahmad (Pronouns: She/Her)
+# 👋 Hi, I'm Kulsum Ahmad (She/Her)
 
-I’m a BTech Computer Science student with a strong interest in frontend development, UI design, and open-source contributions, and growing experience in AI/ML projects.
+🎓 B.Tech Computer Science Student (8.73 CGPA)
 
-👀 Interests:
-- Responsive & interactive web development
-- Frontend engineering & UI design
-- Exploring AI/ML applications
-- Open-source collaboration
+💻 Full-Stack Developer | 🤖 AI Enthusiast | 🌟 Open Source Contributor
 
-🛠 Skills:
+I'm passionate about building impactful web applications, exploring Generative AI, and contributing to open-source communities. I enjoy transforming ideas into real-world products through hackathons, internships, and personal projects.
 
-Languages: C, C++, Python, HTML, CSS, JavaScript
+## 🚀 Highlights
 
-Frontend & Tools: Git, GitHub, VS Code, DOM manipulation, basic API integration, Streamlit
+🏆 1st Place Winner – HackIT 2.0 Hackathon
 
-Current Focus: React.js, Java, advanced AI/ML concepts, end-to-end project building
+🌟 Hacktoberfest Super Contributor (2025)
 
-🚀 Featured Projects & Research
-🏆 Research: NGO-Volunteer Connection Platform
-Accepted for presentation at ICISTECH 2.0 Conference (2026)
+💼 Frontend Developer Intern – Infosys Springboard Web Developer Virtual Internship 6.0
 
-Overview: Designed a web-based platform to bridge the gap between non-profits and volunteers, streamlining the recruitment process for social impact initiatives.
+🤖 Built SmartMock AI – AI-Powered Interview Analyzer
 
-Key Achievement: The system architecture and abstract were peer-reviewed and selected for presentation at the ICISTECH international conference.
+📚 Presented research on SkillBridge at ICISTECH International Conference 2.0
 
-🏢 Infosys Internship Project
-Role: Frontend Developer (Collaborative Team of 5)
+🚀 Participant – GirlScript Summer of Code (GSSoC) 2026
 
-Overview: contributed to the development of a scalable enterprise web application.
+## 🛠 Tech Stack
 
-Key Contributions:
+### Languages
 
-Designed and implemented modular UI components, ensuring 100% responsiveness across devices.
+Java • JavaScript • Python
 
-Managed version control and integration of frontend views with backend APIs using Git.
+### Frontend
 
-Tech Stack: HTML5, CSS3, JavaScript, Git
+React.js • HTML5 • CSS3 • JavaScript • Responsive Design
 
-🏘️ Real Estate Price Predictor
-Overview: engineered a Machine Learning model to predict Indian property prices with high accuracy based on key features (Area, BHK, Location).
+### Backend
 
-Technical Implementation: Performed extensive data cleaning and feature engineering to optimize model performance.
+Node.js • Express.js • REST APIs
 
-Tech Stack: Python, Pandas, Scikit-learn
+### Database
 
-🧠 GPT-2 Text Generator
-Overview: deployed a Generative AI application capable of creating coherent text sequences from user prompts.
+MongoDB • SQL
 
-Technical Implementation: Integrated the GPT-2 model with a Streamlit interface for real-time model inference.
+### Tools
 
-Tech Stack: Python, PyTorch/TensorFlow, Streamlit, Transformers
+Git • GitHub • VS Code • Postman
 
-👉 More projects on my GitHub: github.com/Kulsum-ahmad
+### Currently Exploring
 
-🌍 Open Source & Contributions:
-- Contributed to IBM repositories during Full Stack Software Development course (Coursera)
-- 6 PRs merged during Hacktoberfest
-- Hacktoberfest Super Contributor (received official T-shirt)
-- Hands-on experience with real-world repositories, code reviews, and collaborative workflows
+Generative AI • Cloud Computing • Advanced React Patterns
 
-🤝 Let’s Connect
+## 🌟 Featured Projects
+
+### 🤖 SmartMock AI – AI Interview Analyzer
+
+A full-stack AI-powered interview preparation platform that evaluates technical responses and generates personalized feedback using Gemini API.
+
+**Tech Stack:** React.js, Node.js, Express.js, MongoDB, Gemini API
+
+### 🌍 SkillBridge – NGO & Volunteer Collaboration Platform
+
+Developed during the Infosys Springboard Web Developer Virtual Internship 6.0. A MERN-stack platform designed to connect NGOs with volunteers through an intuitive and responsive interface.
+
+**Tech Stack:** React.js, Node.js, Express.js, MongoDB
+
+### 🏆 HackIT 2.0 Winning Project
+
+Built an AI-powered educational platform that enables teachers to generate lesson plans, quizzes, and course materials using AI. Included dedicated dashboards for teachers, students, and administrators.
+
+**Achievement:** Secured 1st Place among 12 competing teams.
+
+### 🏠 Real Estate Price Predictor
+
+Machine Learning application that predicts property prices using data preprocessing, feature engineering, and predictive modeling techniques.
+
+**Tech Stack:** Python, Pandas, Scikit-learn
+
+## 🌍 Open Source
+
+* Hacktoberfest Super Contributor (6 merged PRs)
+* Participant in GirlScript Summer of Code (GSSoC) 2026
+* Contributed to open-source repositories and collaborative development projects
+* Experience with Git workflows, pull requests, code reviews, and issue tracking
+
+## 📜 Certifications
+
+* IBM Full Stack Software Developer
+* AWS Cloud Practitioner Essentials
+* AWS Cloud Quest: Generative AI Practitioner
+
+## 📫 Let's Connect
+
+I'm always interested in collaborating on web development, AI, open-source, and impactful technology projects.
+
+⭐ Feel free to explore my repositories and connect with me!
 📧 Email: kulsumahmad0703@gmail.com
-
 🔗 LinkedIn: https://www.linkedin.com/in/kulsum-ahmad-a00560324
