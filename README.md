@@ -2,7 +2,7 @@
 
 🎓 B.Tech Computer Science Student (8.73 CGPA)
 
-💻 Full-Stack Developer | 🤖 AI Enthusiast | 🌟 Open Source Contributor
+💻 Frontend Developer | 🤖 AI Enthusiast | 🌟 Open Source Contributor
 
 I'm passionate about building impactful web applications, exploring Generative AI, and contributing to open-source communities. I enjoy transforming ideas into real-world products through hackathons, internships, and personal projects.
 
