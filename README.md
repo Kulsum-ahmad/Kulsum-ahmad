@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Kulsum Ahmad (She/Her)
 
-🎓 B.Tech Computer Science Student (8.73 CGPA)
+🎓 B.Tech Computer Science Student (8.81 CGPA)
 
 💻 Frontend Developer | 🤖 AI Enthusiast | 🌟 Open Source Contributor
 
